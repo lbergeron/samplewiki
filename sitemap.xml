@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://lbergeron.github.io/samplewiki/sampledata/</loc>
+  </url>
+  <url>
+    <loc>https://lbergeron.github.io/samplewiki/sampledata/index.html</loc>
+  </url>
+  <url>
+    <loc>https://lbergeron.github.io/samplewiki/sampledata/author.html</loc>
+  </url>
+  <url>
+    <loc>https://lbergeron.github.io/samplewiki/sampledata/notitle.html</loc>
+  </url>
+  <url>
+    <loc>https://lbergeron.github.io/samplewiki/sampledata/test.html</loc>
+  </url>
+  <url>
+    <loc>https://lbergeron.github.io/samplewiki/sampledata/folding/</loc>
+  </url>
+  <url>
+    <loc>https://lbergeron.github.io/samplewiki/sampledata/folding/index.html</loc>
+  </url>
+  <url>
+    <loc>https://lbergeron.github.io/samplewiki/sampledata/folding/topic-a.html</loc>
+  </url>
+  <url>
+    <loc>https://lbergeron.github.io/samplewiki/sampledata/folding/topic-b.html</loc>
+  </url>
+  <url>
+    <loc>https://lbergeron.github.io/samplewiki/sampledata/folding/comment-a-1.html</loc>
+  </url>
+  <url>
+    <loc>https://lbergeron.github.io/samplewiki/sampledata/folding/comment-a-2.html</loc>
+  </url>
+  <url>
+    <loc>https://lbergeron.github.io/samplewiki/sampledata/folding/comment-b-1.html</loc>
+  </url>
+  <url>
+    <loc>https://lbergeron.github.io/samplewiki/sampledata/folding/reply-a-1-1.html</loc>
+  </url>
+</urlset>
